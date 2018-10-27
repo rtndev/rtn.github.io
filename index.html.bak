@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html amp>
 <head>
-  <!-- © Copyright 2017 RTNcoin.com - All Rights Reserved -->
+  <!-- © Copyright 2017 Dropletcoin.com - All Rights Reserved -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.6.5, mobirise.com">
@@ -110,26 +110,26 @@ body {
                 <h3 class="mbr-section-title mbr-fonts-style align-left mbr-bold mbr-white display-5">
                     Transparent</h3>
                 <p class="mbr-text mbr-fonts-style align-left mbr-white display-4">
-                    Anyone can participate in the RTN project, revolutionizing the world as we know it. We are creating technologies and applications out of community demand.</p>             
+                    Anyone can participate in the Droplet project, revolutionizing the world as we know it. We are creating technologies and applications out of community demand.</p>             
             </div>
             
             <div class="card mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-3">
                 <h3 class="mbr-section-title mbr-fonts-style align-left mbr-bold mbr-white display-5">
                     Decentralized</h3>
                 <p class="mbr-text mbr-fonts-style align-left mbr-white display-4">
-                    RTN is a decentralized cryptocurrency. With RTN, everyone has a voice that is immutable. RTN can't be controlled or regulated.</p> 
+                    Droplet is a decentralized cryptocurrency. With Droplet, everyone has a voice that is immutable. Droplet can't be controlled or regulated.</p> 
             </div>
         
             <div class="card mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-3">
                 <h3 class="mbr-section-title mbr-fonts-style align-left mbr-bold mbr-white display-5">
                     Private</h3>
-                <p class="mbr-text mbr-fonts-style align-left mbr-white display-4">Using RTN is totally anonymous, no registration is needed. For private purchases and activities, we are integrating zk-snarks. A technology that allows for untraceable transactions.</p>
+                <p class="mbr-text mbr-fonts-style align-left mbr-white display-4">Using Droplet is totally anonymous, no registration is needed. For private purchases and activities, we are integrating zk-snarks. A technology that allows for untraceable transactions.</p>
             </div>
         
             <div class="card mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-3">
                 <h3 class="mbr-section-title mbr-fonts-style align-left mbr-bold mbr-white display-5">Secure</h3>
                 <p class="mbr-text mbr-fonts-style align-left mbr-white display-4">
-                    RTN is a cryptocurrency, the blockchain secures the network and allows for trustless use of RTN as a currency.</p>
+                    Droplet is a cryptocurrency, the blockchain secures the network and allows for trustless use of Droplet as a currency.</p>
             </div>
         </div>
     </div>
@@ -189,9 +189,9 @@ body {
     <div class="mbr-container">
         <div class="mbr-text counter-container mbr-fonts-style display-7">
             <ul>
-                <li><strong>PERFORMANCE</strong> - RTN is currently a token on the Ethereum blockchain, therefore it has identical performance as Ether. Transaction speed: 10 seconds, transactions per second: 15, transaction fees: 0.7 USD worth of Ether.(incoming upgrade to the Ethereum network will improve transactions per second and lower the fees significantly). <a href="https://en.wikipedia.org/wiki/Ethereum" target="_blank" class="text-secondary">More about Ethereum</a></li>
-                <li><strong>IDEOLOGY&nbsp;</strong>- Our ideology and the concept of RTN is to gather enthusiasts and create a community where ideas, suggestions &amp; proposals are taken seriously. We will create a system where RTN tokens can be used to vote up or down on proposals and to create proposals. We want to solve issues that are among all cryptocurrencies, we want to create a community for the blockchain &amp; cryptocurrency space in general, and not just for one currency, but for all. &nbsp;&nbsp;<a href="https://twitter.com/RTNCoin" class="text-secondary">Community</a></li>
-                <li><strong>FLEXIBILITY</strong> - How RTN will scale and when. RTN will convert to its own blockchain in 2019, from there we will implement numerous of features &amp; find the best scaling solution available or develop our own.<a href="https://en.wikipedia.org/wiki/Blockchain"></a><a href="https://en.wikipedia.org/wiki/Blockchain" class="text-secondary"> More abou</a><span><a href="https://en.wikipedia.org/wiki/Blockchain" class="text-secondary">t current blockchain limitations</a></span></li>
+                <li><strong>PERFORMANCE</strong> - Droplet is currently a token on the Ethereum blockchain, therefore it has identical performance as Ether. Transaction speed: 10 seconds, transactions per second: 15, transaction fees: 0.7 USD worth of Ether.(incoming upgrade to the Ethereum network will improve transactions per second and lower the fees significantly). <a href="https://en.wikipedia.org/wiki/Ethereum" target="_blank" class="text-secondary">More about Ethereum</a></li>
+                <li><strong>IDEOLOGY&nbsp;</strong>- Our ideology and the concept of Droplet is to gather enthusiasts and create a community where ideas, suggestions &amp; proposals are taken seriously. We will create a system where Droplet tokens can be used to vote up or down on proposals and to create proposals. We want to solve issues that are among all cryptocurrencies, we want to create a community for the blockchain &amp; cryptocurrency space in general, and not just for one currency, but for all. &nbsp;&nbsp;<a href="https://twitter.com/DropletCoin" class="text-secondary">Community</a></li>
+                <li><strong>FLEXIBILITY</strong> - How Droplet will scale and when. Droplet will convert to its own blockchain in 2019, from there we will implement numerous of features &amp; find the best scaling solution available or develop our own.<a href="https://en.wikipedia.org/wiki/Blockchain"></a><a href="https://en.wikipedia.org/wiki/Blockchain" class="text-secondary"> More abou</a><span><a href="https://en.wikipedia.org/wiki/Blockchain" class="text-secondary">t current blockchain limitations</a></span></li>
             </ul>
         </div>
     </div>
@@ -205,13 +205,13 @@ body {
         <div class="mbr-row mbr-justify-content-center">
             <div class="mbr-col-lg-8">
                 <h1 class="mbr-fonts-style align-center mbr-bold display-1">
-                    <strong><a href="Team.html">Ho is behind RTN?</a><br></strong><br></h1>
+                    <strong><a href="Team.html">Ho is behind Droplet?</a><br></strong><br></h1>
                 
                 <div class="mbr-text align-center">
                     
                 </div>
                 
-                <amp-img src="assets/images/team-emblem-2255x1864.png" alt="RTN Team" width="548.0230686695279" height="453" layout="responsive">
+                <amp-img src="assets/images/team-emblem-2255x1864.png" alt="Droplet Team" width="548.0230686695279" height="453" layout="responsive">
                     <a href="Team.html"></a>
                 </amp-img>
             </div>
@@ -277,7 +277,7 @@ body {
     <div class="container">
         <div class="mbr-row mbr-justify-content-center">
             <div id="bildedpt" class="image-block mbr-col-sm-12 mbr-col-md-3">
-                <amp-img src="assets/images/RTN-seddelen-hvit-bg-2957x1340.png" layout="responsive" width="255.97910447761194" height="116" alt="Mobirise">
+                <amp-img src="assets/images/droplet-seddelen-hvit-bg-2957x1340.png" layout="responsive" width="255.97910447761194" height="116" alt="Mobirise">
                     
                 </amp-img>
             </div>
@@ -288,7 +288,7 @@ body {
                     
                     
                     
-                <p class="item mbr-fonts-style display-7"><a href="Blog_&amp;_Reports.html" class="text-white">Blog</a></p><p class="item mbr-fonts-style display-7"><a href="https://www.reddit.com/r/RTN_coin/" target="_blank" class="text-white">Community</a></p><p class="item mbr-fonts-style display-7">
+                <p class="item mbr-fonts-style display-7"><a href="Blog_&amp;_Reports.html" class="text-white">Blog</a></p><p class="item mbr-fonts-style display-7"><a href="https://www.reddit.com/r/Droplet_coin/" target="_blank" class="text-white">Community</a></p><p class="item mbr-fonts-style display-7">
                         <a href="Announcements_&amp;_Updates.html" class="text-white">Announcements</a></p></div>
             </div>
 
@@ -328,7 +328,7 @@ body {
 
     <div class="mbr-container">
         
-        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style mbr-white display-4"><strong>© Copyright 2017-2018 RTNcoin.com - All Rights Reserved</strong></h3>
+        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style mbr-white display-4"><strong>© Copyright 2017-2018 Dropletcoin.com - All Rights Reserved</strong></h3>
         
     </div>
 </section>
